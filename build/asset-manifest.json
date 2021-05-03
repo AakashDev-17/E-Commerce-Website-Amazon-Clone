@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.23c244cb.chunk.css",
+    "main.js": "/static/js/main.861ccf86.chunk.js",
+    "main.js.map": "/static/js/main.861ccf86.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6b2e5660.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6b2e5660.js.map",
+    "static/js/2.86d2308e.chunk.js": "/static/js/2.86d2308e.chunk.js",
+    "static/js/2.86d2308e.chunk.js.map": "/static/js/2.86d2308e.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.23c244cb.chunk.css.map": "/static/css/main.23c244cb.chunk.css.map",
+    "static/js/2.86d2308e.chunk.js.LICENSE.txt": "/static/js/2.86d2308e.chunk.js.LICENSE.txt",
+    "static/media/amazonLogo.1c9be0b2.png": "/static/media/amazonLogo.1c9be0b2.png",
+    "static/media/amazonLogoBlack.a6eb5586.png": "/static/media/amazonLogoBlack.a6eb5586.png",
+    "static/media/checkoutAd.5f1121af.jpg": "/static/media/checkoutAd.5f1121af.jpg",
+    "static/media/home_banner.64edb77c.jpg": "/static/media/home_banner.64edb77c.jpg",
+    "static/media/product1.78983385.jpg": "/static/media/product1.78983385.jpg",
+    "static/media/product2.4f149366.jpg": "/static/media/product2.4f149366.jpg",
+    "static/media/product3.0f553dd1.jpg": "/static/media/product3.0f553dd1.jpg",
+    "static/media/product4.7745c4d0.jpg": "/static/media/product4.7745c4d0.jpg",
+    "static/media/product5.d6e01c95.jpg": "/static/media/product5.d6e01c95.jpg",
+    "static/media/product6.a9640591.jpg": "/static/media/product6.a9640591.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b2e5660.js",
+    "static/js/2.86d2308e.chunk.js",
+    "static/css/main.23c244cb.chunk.css",
+    "static/js/main.861ccf86.chunk.js"
+  ]
+}
