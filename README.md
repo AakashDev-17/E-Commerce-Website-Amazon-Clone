@@ -1,6 +1,7 @@
 ## Steps to start the App
 
 <ul>
+	<li>Enter you firebase config in ./src/firebase.js</li>
 <li>Terminal 1
 	<ol>
 		<li>npm install</li>
