@@ -18,9 +18,17 @@
 <li>Now use the app in http://localhost:3000/</li>
 </ul>
 
+<hr />
 
+## Screenshots
 
-![logo](https://github.com/AakashDev-17/E-Commerce-Website-Amazon-Clone/blob/main/screenshots/ss1.png?raw=true)
+![ss1](https://github.com/AakashDev-17/E-Commerce-Website-Amazon-Clone/blob/main/screenshots/ss1.png?raw=true)
+![ss2](https://github.com/AakashDev-17/E-Commerce-Website-Amazon-Clone/blob/main/screenshots/ss2.png?raw=true)
+![ss3](https://github.com/AakashDev-17/E-Commerce-Website-Amazon-Clone/blob/main/screenshots/ss3.png?raw=true)
+![ss4](https://github.com/AakashDev-17/E-Commerce-Website-Amazon-Clone/blob/main/screenshots/ss4.png?raw=true)
+![ss5](https://github.com/AakashDev-17/E-Commerce-Website-Amazon-Clone/blob/main/screenshots/ss5.png?raw=true)
+![ss6](https://github.com/AakashDev-17/E-Commerce-Website-Amazon-Clone/blob/main/screenshots/ss6.png?raw=true)
+![ss7](https://github.com/AakashDev-17/E-Commerce-Website-Amazon-Clone/blob/main/screenshots/ss7.png?raw=true)
 
 
 ## Note - Backend not deployed
