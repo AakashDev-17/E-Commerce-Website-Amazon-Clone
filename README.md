@@ -18,4 +18,9 @@
 <li>Now use the app in http://localhost:3000/</li>
 </ul>
 
+
+
+![logo](https://github.com/AakashDev-17/E-Commerce-Website-Amazon-Clone/blob/main/screenshots/ss1.png?raw=true)
+
+
 ## Note - Backend not deployed
