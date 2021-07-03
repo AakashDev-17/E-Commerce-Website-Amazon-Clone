@@ -19,7 +19,3 @@
 </ul>
 
 ## Note - Backend not deployed
-
-## Reference video
-
-<a>https://www.youtube.com/watch?v=RDV3Z1KCBvo</a>
